@@ -1,0 +1,60 @@
+html{
+    font-family:roboto;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+
+}
+
+.navbar{
+    display: flex;
+    justify-content:center;
+}
+.logo{
+    align-self: center;
+    
+}
+.links{
+    display: flex;
+    gap: 16px;
+
+}
+a{
+    color: #f9faf8;
+    text-decoration: none;
+}
+.hero{
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-around;
+    gap: 20px;
+}
+.title{
+    font-size: 48px;
+    font-weight: 900;
+}
+.statement{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    flex-wrap:wrap ;
+    justify-content: left;
+}
+button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 24px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    
+}
