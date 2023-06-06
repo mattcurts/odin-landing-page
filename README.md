@@ -2,6 +2,7 @@
 The Odin Project Landing Page Project
 
 A website created to promote viking raids and get more people signed up to raid.
+Check it out: https://mattcurts.github.io/odin-landing-page/
 
 Images used:
 
